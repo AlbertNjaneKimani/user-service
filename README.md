@@ -7,9 +7,13 @@ will be monotored.
 
 ```
 1.GET all users: http://localhost:8092/user/all
+
 2.GET single User: http://localhost:8092/user/{id}
+
 3.POST user: http://localhost:8092/user
+
 4.PUT(Update) user: http://localhost:8092/user/{id}
+
 5.DELETE user: http://localhost:8092/user/{id}
 ```
 
