@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:user-service}
+# 1:user-service
 TODO: This is a user Microservice where a user can top up account balance, 
 and do transactions. This Service will iunteract with order microservice where the orders for a speciffic user 
 will be monotored.
