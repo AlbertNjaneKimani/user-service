@@ -3,6 +3,11 @@
  This is a user Microservice where a user can top up account balance, 
 and do transactions. This Service will iunteract with order microservice where the orders for a speciffic user 
 will be monotored.
+## Technologies Used
+1. Java
+2. Spring Boot Reactive
+3. MySQL
+4. GIT
 ## It has the following end points
 
 ```
